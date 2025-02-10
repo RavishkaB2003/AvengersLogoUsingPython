@@ -1,8 +1,14 @@
 # Avengers Logo using Python
 
-![image](https://github.com/user-attachments/assets/5211a33b-d386-498b-b82f-9e72b386bf80)
-![image](https://github.com/user-attachments/assets/f7c7f1cd-875a-4437-b029-71d458fb9697)
-![image](https://github.com/user-attachments/assets/7f6fe0fd-c10b-4cf1-abda-52743999d973)
+<img src="https://github.com/user-attachments/assets/5211a33b-d386-498b-b82f-9e72b386bf80" width="50" height="50">
+</a>
+<img src="https://github.com/user-attachments/assets/f7c7f1cd-875a-4437-b029-71d458fb9697" width="50" height="50">
+</a>
+<img src="https://github.com/user-attachments/assets/5213240a-1782-4d67-b4a6-73d74437e3d3" width="50" height="50">
+</a>
+
+
+
 
 
 
