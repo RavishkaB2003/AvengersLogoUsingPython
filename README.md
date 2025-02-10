@@ -1,5 +1,11 @@
 # Avengers Logo using Python
 
+![image](https://github.com/user-attachments/assets/5211a33b-d386-498b-b82f-9e72b386bf80)
+![image](https://github.com/user-attachments/assets/f7c7f1cd-875a-4437-b029-71d458fb9697)
+![image](https://github.com/user-attachments/assets/7f6fe0fd-c10b-4cf1-abda-52743999d973)
+
+
+
 This project generates the iconic Avengers logo using Python. The design uses the `turtle` module, while background music is played using `pygame`.
 
 ## Features
@@ -30,15 +36,15 @@ The `turtle` module comes pre-installed with Python, so no additional installati
 ### 3. Clone the Repository
 If you are using Git, clone the repository using:
 ```sh
-git clone [https://github.com/RavishkaB2003/AvengersLogoUsingPython.git]
-cd avengers-logo-python
+git clone https://github.com/RavishkaB2003/AvengersLogoUsingPython.git
+cd AvengersLogoUsingPython-main
 ```
 Or, download the ZIP file and extract it manually.
 
 ### 4. Run the Script
 Execute the script by running:
 ```sh
-python avengers_logo.py
+python Avengers.py
 ```
 The Avengers logo will be drawn, and background music will play.
 
@@ -54,7 +60,7 @@ The Avengers logo will be drawn, and background music will play.
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/RavishkaB2003/AvengersLogoUsingPython)
+Ravishka Bandara - [GitHub Profile](https://github.com/RavishkaB2003/AvengersLogoUsingPython)
 
 
 
